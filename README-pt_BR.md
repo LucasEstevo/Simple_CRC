@@ -1,13 +1,13 @@
 <h1 align="center">💻 Simples Conversor CRC | ESP-IDF 💻</h1>
 <p align="center">
 <a>
-    <img alt="GitHub last commit" src="https://img.shields.io/github/repo-size/LucasEstevo/Conversor-IEEE-754-32-bits">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/repo-size/LucasEstevo/Simple_CRC">
 </a>
 <a>
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LucasEstevo/Conversor-IEEE-754-32-bits">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LucasEstevo/Simple_CRC">
 </a>
 <a>
-    <img alt="GitHub last commit" src="https://img.shields.io/github/license/LucasEstevo/Conversor-IEEE-754-32-bits">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/license/LucasEstevo/Simple_CRC">
 </a>
 <a>
     <img alt="GitHub last commit" src="https://img.shields.io/github/stars/LucasEstevo?style=social">
@@ -36,7 +36,7 @@ Após a instalação de todos estes softwares abra o VSCode e instale a extensã
 ---
 
 ## 📝 Sobre o Projeto
-### O código contém a conversão para CRC32 e CRC16, ambos contendo conversão pública e conversão privada na qual possui uma "senha" que altera a conversão. O funcionando da conversão privada se baseia em concatenar uma senha no inicio do char a ser convertido, para criar o CRC com uma codificação simples impedindo que falsas mensagens alterem o funcionamento do sistema.
+O código contém a conversão para CRC32 e CRC16, ambos contendo conversão pública e conversão privada na qual possui uma "senha" que altera a conversão. O funcionando da conversão privada se baseia em concatenar uma senha no inicio do char a ser convertido, para criar o CRC com uma codificação simples impedindo que falsas mensagens alterem o funcionamento do sistema.
 
 <br/>
 
@@ -111,12 +111,10 @@ Você pode utilizar os sites abaixo para conferir suas conversões.<br/>
 ---
 ## 🦸🏻‍♂️ Autor
 
-
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86720109?s=400&v=4" width="100px;" alt=""/>
- <br />
-    Lucas Estevo 🚀
- <br />
-
+ Lucas Estevo 🚀
+ 
+	
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasestevo/)](https://www.linkedin.com/in/lucasestevo/)
 ![Gmail Badge](https://img.shields.io/badge/-lucasestevo2015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 
